@@ -16,4 +16,4 @@
  * 		]
  * }
  * 
-![image](https://github.com/dtimmer/slider/edit/master/cc.png)
+![image](https://github.com/dtimmer/slider/blob/master/cc.png)
