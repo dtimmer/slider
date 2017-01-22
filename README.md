@@ -10,7 +10,7 @@
  * 		type: 'normal/block',
  * 		class: [
  * 			{
- * 				color: #fff,
+ * 				color: '#fff',
  * 				num: 10
  * 			},...
  * 		]
